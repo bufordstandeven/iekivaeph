@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uoyahzaeb.seelight-game.com/sitemap.xml
